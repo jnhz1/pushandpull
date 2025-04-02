@@ -9,7 +9,7 @@ A physics-based platformer with roguelike structure, built in Python with Pygame
 - Use spacebar to pull inward
 - Anchors expire after short use
 - Victory when all anchors are cleared
-- High velocity unlocks hidden effects
+- High velocity
 
 ---
 
